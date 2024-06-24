@@ -1,5 +1,5 @@
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=v1tbrah&color=black&labelColor=blue)](https://t.me/)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=v1tbrah&color=black&labelColor=blue)](https://www.linkedin.com/)<br/>
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=ceosexxx&color=black&labelColor=blue)](https://t.me/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=ceosexxx&color=black&labelColor=blue)](https://www.linkedin.com/)<br/>
 
 ### Technology stack
 
