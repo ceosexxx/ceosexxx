@@ -7,7 +7,7 @@
 [![Linux](https://img.shields.io/badge/Linux-008000?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io/))<br/>
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)<br/>
 [![REST](https://img.shields.io/badge/REST-FFCC01?style=for-the-badge)](https://en.wikipedia.org/wiki/Rest)
 [![GRPC](https://img.shields.io/badge/GRPC-FFCC01?style=for-the-badge)](https://grpc.io/)
 [![WEBSOCKET](https://img.shields.io/badge/WEBSOCKET-FFCC01?style=for-the-badge)](https://en.wikipedia.org/wiki/WebSocket)<br/>
