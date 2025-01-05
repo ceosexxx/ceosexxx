@@ -4,7 +4,7 @@
 ### Technology stack
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)<br/>
-[![Linux](https://img.shields.io/badge/Linux-FFCC01?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Linux](https://img.shields.io/badge/Linux-008000?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)<br/>
 [![REST](https://img.shields.io/badge/REST-FFCC01?style=for-the-badge)](https://en.wikipedia.org/wiki/Rest)
