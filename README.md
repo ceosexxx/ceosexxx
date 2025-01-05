@@ -1,5 +1,5 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=CEOSEXXX&color=black&labelColor=blue)](https://t.me/)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=CEOSEXXX&color=black&labelColor=blue)](https://www.linkedin.com/)<br/>
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=LinkedIn&label=Linkedin&message=CEOSEXXX&color=black&labelColor=blue)](https://www.linkedin.com/)<br/>
 
 ### Technology stack
 
